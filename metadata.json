@@ -1,0 +1,6 @@
+{
+  "name": "Trích Xuất Hạn Bảo Hiểm",
+  "description": "Ứng dụng giúp bạn trích xuất nhanh thông tin thời gian hết hạn bảo hiểm cháy nổ từ các file Word (.docx).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
